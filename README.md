@@ -148,7 +148,7 @@ gerenciador_biblioteca/
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java 21+
+- Java 25+
 - Records (Java 14+)
 - Streams API
 - ArrayList para armazenamento em memória
